@@ -86,8 +86,11 @@ conn.close()
 
 ## OUTPUT:
 server.py
+
 <img width="752" height="350" alt="image" src="https://github.com/user-attachments/assets/1e0f4f0f-f1e1-44ae-9d21-e002d9001f0d" />
+
 client.py
+
 <img width="767" height="311" alt="image" src="https://github.com/user-attachments/assets/ecf8a4b6-8291-43dc-864a-6179c9228f9b" />
 
 
